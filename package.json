@@ -1,0 +1,30 @@
+{
+  "name": "inciduntodit",
+  "version": "1.0.0",
+  "description": "Strongly typed server sent events module for express",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KittyEmmerich/inciduntodit.git"
+  },
+  "keywords": [
+    "express",
+    "sse",
+    "repudiandae",
+    "eligendi",
+    "events",
+    "typescript",
+    "ea",
+    "middleware",
+    "eventsource"
+  ],
+  "author": "AustinGraham",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/express": "^4.17.6"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
